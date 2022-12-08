@@ -28,7 +28,7 @@ To run this program, go to the folder demos and select the file demos.py. Ensure
    <img src="https://user-images.githubusercontent.com/91628000/206366906-09739e57-7d19-4d7a-9756-3173e3a538bb.png" width=75% height=75%>
 </p>
 
-From the base terminal type in python demos.py. A GUI should pop up. 
+From the base terminal type in python demos.py. A GUI will pop up. 
   
 
 
